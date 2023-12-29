@@ -1,0 +1,52 @@
+# Virtual environments
+venv/
+env/
+*.venv/
+
+# VS Code settings
+.vscode/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Local configuration files
+*.sqlite3
+*.log
+
+# IDE settings
+.idea/
+
+# Compiled Python files
+*.pyc
+
+# Dependency directories
+node_modules/
+bower_components/
+
+# Compiled Java classes
+*.class
+
+# Compiled C++ binaries
+*.out
+
+# Compiled binary files
+*.bin
+
+# macOS
+.DS_Store
+
+# Thumbnails
+Thumbs.db
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
